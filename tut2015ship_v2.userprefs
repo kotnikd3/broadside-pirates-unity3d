@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets/Scripts/Chaser_v3.cs">
+    <Files>
+      <File FileName="assets/Scripts/Chaser_v3.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/SpawnGameObjectsRandom.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/Chaser_v2.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/TargetBehavior.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/Treasure.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/GameManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

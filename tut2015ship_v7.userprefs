@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets/Scripts/Health.cs">
+    <Files>
+      <File FileName="assets/Scripts/ShootingChaser.cs" Line="116" Column="28" />
+      <File FileName="assets/Scripts/PlayerBehavior.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/Damage.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/Health.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/TargetBehavior.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/Harbor.cs" Line="21" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

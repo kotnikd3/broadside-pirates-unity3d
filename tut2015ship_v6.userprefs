@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets/Scripts/Damage.cs">
+    <Files>
+      <File FileName="assets/Scripts/Harbor.cs" Line="23" Column="11" />
+      <File FileName="assets/Scripts/Health.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/Damage.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/TargetBehavior.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/StealingChaser.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/ShootingChaser.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/PlayerBehavior.cs" Line="4" Column="20" />
+      <File FileName="assets/Scripts/switchMode.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
